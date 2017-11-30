@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="VideoInterpolator">
+    <Position X="9" Y="0.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAIAAAAAAABABIAAAAAIAAAAACAAAABABAAAAA=</HashCode>
+      <FileName>VideoInterpolator.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SplineInterpolator">
+    <Position X="1.25" Y="3.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAABAAAUAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SplineInterpolator.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interpolator">
+    <Position X="3" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAIAAAAQAAAEABAAABAAAAAAAAA=</HashCode>
+      <FileName>Interpolator.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LinearInterpolator">
+    <Position X="5.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAgAAACAAA=</HashCode>
+      <FileName>LinearInterpolator.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
