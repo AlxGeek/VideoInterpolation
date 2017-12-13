@@ -24,6 +24,7 @@ namespace la
 			return false;
 		}
 		x[n - 1] = db[n - 1] / bb[n - 1];
+		//Don't fix this warning
 		for (int i = n - 2; i >= 0; i--)
 		{
 			if (fabs(bb[i]) < 0.000001)
